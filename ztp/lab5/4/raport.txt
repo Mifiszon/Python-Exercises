@@ -1,0 +1,3 @@
+=== RAPORT ANALIZY DANYCH ===
+Średnia: 31.3
+Mediana: 30.0

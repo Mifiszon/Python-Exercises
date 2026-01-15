@@ -1,0 +1,28 @@
+{
+  "liczba_żądań": 27561,
+  "unikalne_ip": 10708,
+  "top_zasoby": {
+    "/robots.txt": 7237,
+    "/phpmyadmin/index.php?route=/lint": 5755,
+    "/phpmyadmin/index.php?route=/import": 537,
+    "/phpmyadmin/index.php?route=/database/sql/autocomplete": 280,
+    "/favicon.ico": 193,
+    "/phpmyadmin/index.php?route=/navigation&ajax_request=1": 182,
+    "/~miodyn/julia/": 138,
+    "/phpmyadmin/index.php?route=/": 124,
+    "/phpmyadmin/index.php?route=/config/get": 114,
+    "/~25_pekala/DH/4/": 98
+  },
+  "kody_http": {
+    "200": 12866,
+    "404": 14060,
+    "401": 3,
+    "302": 47,
+    "304": 22,
+    "301": 78,
+    "403": 58,
+    "206": 9,
+    "500": 417,
+    "303": 1
+  }
+}

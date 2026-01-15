@@ -1,0 +1,112 @@
+[
+  {
+    "ID": "1001",
+    "Data_zamówienia": "2025-10-15",
+    "Klient": "Anna Nowak",
+    "Produkt": "Laptop HP Envy",
+    "Kategoria": "Elektronika",
+    "Cena_jednostkowa": "5299",
+    "Ilość": "1",
+    "Wartość_zamówienia": "5299",
+    "Status": "Zrealizowane"
+  },
+  {
+    "ID": "1002",
+    "Data_zamówienia": "2025-10-16",
+    "Klient": "Piotr Kowalski",
+    "Produkt": "Mysz bezprzewodowa Logitech",
+    "Kategoria": "Akcesoria",
+    "Cena_jednostkowa": "129",
+    "Ilość": "2",
+    "Wartość_zamówienia": "258",
+    "Status": "Zrealizowane"
+  },
+  {
+    "ID": "1003",
+    "Data_zamówienia": "2025-10-17",
+    "Klient": "Ewa Zielińska",
+    "Produkt": "Monitor Samsung 27\"",
+    "Kategoria": "Elektronika",
+    "Cena_jednostkowa": "999",
+    "Ilość": "1",
+    "Wartość_zamówienia": "999",
+    "Status": "W trakcie"
+  },
+  {
+    "ID": "1004",
+    "Data_zamówienia": "2025-10-18",
+    "Klient": "Tomasz Wiśniewski",
+    "Produkt": "Krzesło biurowe Ergo+",
+    "Kategoria": "Meble",
+    "Cena_jednostkowa": "849",
+    "Ilość": "1",
+    "Wartość_zamówienia": "849",
+    "Status": "Zrealizowane"
+  },
+  {
+    "ID": "1005",
+    "Data_zamówienia": "2025-10-18",
+    "Klient": "Magda Krawczyk",
+    "Produkt": "Kabel HDMI 3m",
+    "Kategoria": "Akcesoria",
+    "Cena_jednostkowa": "39",
+    "Ilość": "3",
+    "Wartość_zamówienia": "117",
+    "Status": "Zrealizowane"
+  },
+  {
+    "ID": "1006",
+    "Data_zamówienia": "2025-10-19",
+    "Klient": "Marek Duda",
+    "Produkt": "Smartfon Samsung Galaxy S24",
+    "Kategoria": "Elektronika",
+    "Cena_jednostkowa": "4899",
+    "Ilość": "1",
+    "Wartość_zamówienia": "4899",
+    "Status": "Anulowane"
+  },
+  {
+    "ID": "1007",
+    "Data_zamówienia": "2025-10-20",
+    "Klient": "Katarzyna Lewandowska",
+    "Produkt": "Zestaw biurkowy",
+    "Kategoria": "Meble",
+    "Cena_jednostkowa": "599",
+    "Ilość": "1",
+    "Wartość_zamówienia": "599",
+    "Status": "Zrealizowane"
+  },
+  {
+    "ID": "1008",
+    "Data_zamówienia": "2025-10-20",
+    "Klient": "Robert Wójcik",
+    "Produkt": "Powerbank Baseus 20000mAh",
+    "Kategoria": "Akcesoria",
+    "Cena_jednostkowa": "159",
+    "Ilość": "1",
+    "Wartość_zamówienia": "159",
+    "Status": "Zrealizowane"
+  },
+  {
+    "ID": "1009",
+    "Data_zamówienia": "2025-10-21",
+    "Klient": "Jan Kaczmarek",
+    "Produkt": "Słuchawki Sony WH-CH720N",
+    "Kategoria": "Elektronika",
+    "Cena_jednostkowa": "699",
+    "Ilość": "2",
+    "Wartość_zamówienia": "1398",
+    "Status": "W trakcie"
+  },
+  {
+    "ID": "1010",
+    "Data_zamówienia": "2025-10-22",
+    "Klient": "Agnieszka Maj",
+    "Produkt": "Klawiatura mechaniczna Keychron K8",
+    "Kategoria": "Akcesoria",
+    "Cena_jednostkowa": "449",
+    "Ilość": "1",
+    "Wartość_zamówienia": "449",
+    "Status": "Zrealizowane"
+  }
+]

@@ -1,0 +1,2 @@
+Imię: Anna, Wiek: 23 
+Imię: Michał, Wiek: 2 
