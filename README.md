@@ -1,4 +1,4 @@
 Structure:
-- ZTP (Advanced Programmin Techniques) - Object oriente programmin
+- ZTP (Advanced Programmin Techniques) - Object oriented programmin
 - AEI (Automatic Information Extraction) - Text analysis
-- IG (Graphic Interface) - Python bases
+- IG (Graphic Interface) - Python 
