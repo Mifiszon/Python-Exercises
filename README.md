@@ -1,5 +1,6 @@
 Structure:
 - ZTP (Advanced Programmin Techniques) - Object oriented programming
+  + Classes
 - AEI (Automatic Information Extraction) - Text analysis
   + Frequency List
   + TF-IDF
