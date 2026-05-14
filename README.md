@@ -34,12 +34,10 @@ Since this repository consists of **Jupyter Notebooks** (`.ipynb`), you can inte
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Mifiszon/Python-Exercises.git](https://github.com/Mifiszon/Python-Exercises.git)
-   ```
 2. **Install Jupyter:**
    ```bash
    pip install notebook
-  ```
-3. **Install Jupyter:**
+3. **Launch**
    ```bash
-   pip install notebook
-  ```
+   jupyter notebook
+4. Open any notebook from the list to view the code and execution results[cite: 2].
