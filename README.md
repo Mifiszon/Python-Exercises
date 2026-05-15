@@ -4,7 +4,7 @@ A comprehensive collection of Python programming modules and exercises, focusing
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 .
 The project is categorized into three specialized modules based on academic curriculum.
 
