@@ -27,7 +27,7 @@ Core language foundations and preparation for Graphical User Interface developme
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 Since this repository consists of **Jupyter Notebooks** (`.ipynb`), you can interact with the code directly:
 
